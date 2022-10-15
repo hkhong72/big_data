@@ -13,5 +13,7 @@
              
 2022-10-14 : https://gist.github.com/hkhong72/321ef6db79e418d284acb18fd0cc5d7d
            : https://gist.github.com/hkhong72/70e4689a1e30d8ef75f1629747b35ca4
+           
+2022-10-15 : https://colab.research.google.com/gist/hkhong72/a65643e50fb7eb68efb6eccdfdd99a40/221015.ipynb?hl=ko (집에서 인텔리제이 community 설치)
 
 
