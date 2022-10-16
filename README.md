@@ -16,4 +16,6 @@
            
 2022-10-15 : https://colab.research.google.com/gist/hkhong72/a65643e50fb7eb68efb6eccdfdd99a40/221015.ipynb?hl=ko (집에서 인텔리제이 community 설치)
 
+2022-10-16 : https://colab.research.google.com/gist/hkhong72/e61199804cc243b76f060f7527965d90/221016.ipynb?hl=ko (집에서 10-06일자 수업내용 복습)
+
 
