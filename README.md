@@ -18,4 +18,6 @@
 
 2022-10-16 : https://colab.research.google.com/gist/hkhong72/e61199804cc243b76f060f7527965d90/221016.ipynb?hl=ko (집에서 10-06일자 수업내용 복습)
 
+2022-10-17 : https://gist.github.com/hkhong72/9e2c7f7c3755d328d479569c75b3a7ae
+
 
