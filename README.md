@@ -24,5 +24,7 @@
 
 2022-10-19 : https://gist.github.com/hkhong72/2514f8c5b71564012e20d75a71e8d3fa오전
              https://gist.github.com/hkhong72/73e1fc00c1632b142ffd65e0fd6b1976
+             
+2022-10-20 : https://gist.github.com/hkhong72/f4cb77c5d88471bb45d54a4a13cbe196 1
 
 
