@@ -33,5 +33,7 @@
              
 2022-10-21 : https://gist.github.com/hkhong72/7c92a5717a4c6fd1417d83fea4185bb9 
              https://gist.github.com/hkhong72/45091cd18c370bf2fd829e7d6f27eac7 오후
+             
+2022-10-24 : https://gist.github.com/Leeyoonhu/963d38b4c74d058fde77340236034469#file-hadoopeco-01-1-ipynb 1
 
 
