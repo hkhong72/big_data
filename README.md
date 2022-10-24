@@ -34,6 +34,7 @@
 2022-10-21 : https://gist.github.com/hkhong72/7c92a5717a4c6fd1417d83fea4185bb9 
              https://gist.github.com/hkhong72/45091cd18c370bf2fd829e7d6f27eac7 오후
              
-2022-10-24 : https://gist.github.com/Leeyoonhu/963d38b4c74d058fde77340236034469#file-hadoopeco-01-1-ipynb 1
+2022-10-24 : Hadoop Eco System1-1 - https://gist.github.com/Leeyoonhu/963d38b4c74d058fde77340236034469#file-hadoopeco-01-1-ipynb
+           : Hadoop Eco System1-2 - https://gist.github.com/Leeyoonhu/7341af3d565463bf217185ec629ac79c#file-hadoopeco-01-2-ipynb
 
 
