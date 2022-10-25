@@ -48,3 +48,4 @@
            : https://gist.github.com/hkhong72/6fce8b8059257779869b87cdf4e66611 - 3,4
            : https://gist.github.com/hkhong72/15eab2e479c9dc726a94514359373941 - 
            : https://gist.github.com/hkhong72/07c1f3562f086db5193a41bb63b48f0b - 분류문제
+           : https://gist.github.com/hkhong72/98f53cad7991792319338d951e3f6fbc - 5 ( 역전파, backword-propagation )
