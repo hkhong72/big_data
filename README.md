@@ -43,4 +43,6 @@
 2022-10-25 : https://gist.github.com/hkhong72/b364253af94b2f19adc8b37a7c8ee7cc - 1
            : https://gist.github.com/hkhong72/7d82833106d7a08f86e1a0e023b678f4 - 2
            : https://gist.github.com/hkhong72/3ff6947f7354cfe72ff7f77e36e57d48 - 3
-           : https://gist.github.com/hkhong72/ef349873db61e459c4032c1f604180b8 -
+           : https://gist.github.com/hkhong72/ef349873db61e459c4032c1f604180b8 - 활성화함수
+           : https://gist.github.com/hkhong72/e4858533ec72ca1eb7c98c2a0c84c0e3 - 단일신경망
+           : https://gist.github.com/hkhong72/6fce8b8059257779869b87cdf4e66611 - 3,4
