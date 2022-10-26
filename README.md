@@ -50,4 +50,5 @@
            : https://gist.github.com/hkhong72/07c1f3562f086db5193a41bb63b48f0b - 분류문제
            : https://gist.github.com/hkhong72/98f53cad7991792319338d951e3f6fbc - 5 ( 역전파, backword-propagation )
            
-2022-10-26 : https://gist.github.com/hkhong72/0bd8e656a2716dddd891f8af32f8de04 - 
+2022-10-26 : https://gist.github.com/hkhong72/0bd8e656a2716dddd891f8af32f8de04 - 회귀문제실습 (파이썬)
+           : https://gist.github.com/hkhong72/e2b520271e08bb384c5f4c16d157bb4e - 분류문제실습 (파이썬)
