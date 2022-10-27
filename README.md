@@ -55,3 +55,4 @@
            : https://gist.github.com/hkhong72/540e224b1763f0cdbf786b7d4c9ea32f - 텐서플로우 
 
 2022-10-27 : https://gist.github.com/hkhong72/1fe144cdde122492e05f6b6e20a2e477 - 1 딥러닝교재Chap02
+           : https://gist.github.com/hkhong72/e7b980b07d9ed3032c60e521518b2c8a - 2 딥러닝교재Chap11
