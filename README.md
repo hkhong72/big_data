@@ -53,3 +53,5 @@
 2022-10-26 : https://gist.github.com/hkhong72/0bd8e656a2716dddd891f8af32f8de04 - 회귀문제실습 (파이썬)
            : https://gist.github.com/hkhong72/e2b520271e08bb384c5f4c16d157bb4e - 분류문제실습 (파이썬)
            : https://gist.github.com/hkhong72/540e224b1763f0cdbf786b7d4c9ea32f - 텐서플로우 
+
+2022-10-27 : https://gist.github.com/hkhong72/1fe144cdde122492e05f6b6e20a2e477 - 1 딥러닝교재Chap02
