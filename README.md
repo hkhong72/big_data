@@ -66,7 +66,5 @@
            : https://gist.github.com/hkhong72/0c98e625eef5f46f9f1ce3ce672279e0 - 10 딥러닝교재Chap14-3
            
 2022-10-28 : https://gist.github.com/hkhong72/154fff5837a91039a067b038ddaaa4bd - 1 딥러닝교재Chap15
-
            : https://gist.github.com/hkhong72/71806235cdf9b2d3efdf9dcf6abe1535 - 2 딥러닝교재Chap16
-           
            : https://gist.github.com/hkhong72/e8f6ab8d6e07b35c819e502c8df3b41f - 3 딥러닝교재Chap16-2
