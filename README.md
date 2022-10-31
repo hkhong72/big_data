@@ -69,3 +69,5 @@
            : https://gist.github.com/hkhong72/71806235cdf9b2d3efdf9dcf6abe1535 - 2 딥러닝교재Chap16
            : https://gist.github.com/hkhong72/e8f6ab8d6e07b35c819e502c8df3b41f - 3 딥러닝교재Chap16-2
            : https://gist.github.com/hkhong72/56ef53cdbe342d22ceb6de22b31db037 - 4 Dogs vs Cats
+
+2022-10-31 : https://gist.github.com/hkhong72/1049c6446de6f4b54278d3789994a53e 윤후님한테강의자료받음
