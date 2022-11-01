@@ -72,4 +72,5 @@
 
 2022-10-31 : https://gist.github.com/hkhong72/1049c6446de6f4b54278d3789994a53e 윤후님한테강의자료받음
 
-2022-11-01 : https://gist.github.com/hkhong72/45f7b1ffeb83c75bd44f8d622513483a 
+2022-11-01 : https://gist.github.com/hkhong72/45f7b1ffeb83c75bd44f8d622513483a - 1
+           : https://gist.github.com/hkhong72/2040b0deef8b1f2834b03add1d3fce35 - 2 
