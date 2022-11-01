@@ -71,3 +71,5 @@
            : https://gist.github.com/hkhong72/56ef53cdbe342d22ceb6de22b31db037 - 4 Dogs vs Cats
 
 2022-10-31 : https://gist.github.com/hkhong72/1049c6446de6f4b54278d3789994a53e 윤후님한테강의자료받음
+
+2022-11-01 : https://gist.github.com/hkhong72/45f7b1ffeb83c75bd44f8d622513483a 
