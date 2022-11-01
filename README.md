@@ -76,3 +76,4 @@
            : https://gist.github.com/hkhong72/2040b0deef8b1f2834b03add1d3fce35 - 2 
            : https://gist.github.com/hkhong72/00cd4deaeb155e9881125896209f0661 - 3 딥러닝교재Chap18
            : https://gist.github.com/hkhong72/58980e0653e5f48e9bb64a033923fd67 - 4 딥러닝교재Chap18-2
+           : https://gist.github.com/hkhong72/312877eb777421664f0f80b6749c146d - 5 딥러닝교재Chap18-3 (예습)
