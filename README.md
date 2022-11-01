@@ -75,3 +75,4 @@
 2022-11-01 : https://gist.github.com/hkhong72/45f7b1ffeb83c75bd44f8d622513483a - 1
            : https://gist.github.com/hkhong72/2040b0deef8b1f2834b03add1d3fce35 - 2 
            : https://gist.github.com/hkhong72/00cd4deaeb155e9881125896209f0661 - 3 딥러닝교재Chap18
+           : https://gist.github.com/hkhong72/58980e0653e5f48e9bb64a033923fd67 - 4 딥러닝교재Chap18-2
