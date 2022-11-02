@@ -82,3 +82,4 @@
            : https://gist.github.com/hkhong72/914461c1357509911905571599528bf2 - 8 딥러닝교재Chap19(강사님버전)
            
 2022-11-02 : https://gist.github.com/hkhong72/97f8514a25f4382e8680161d32f5c61b - 1 딥러닝교재Chap19-2
+           : https://gist.github.com/hkhong72/f0a6dd047e79aa706b0ea2f43d14f806 - 2 딥러닝교재Chap20-1
